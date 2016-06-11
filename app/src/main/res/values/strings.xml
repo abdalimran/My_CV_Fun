@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My CV</string>
+
+    <string name="cat_PersonalInfo"><b>Personal Informations</b></string>
+    <string name="name"><b>Name:</b> Vugi Wugi</string>
+    <string name="address"><b>Address: </b>Oli goli, Dhaka, Bangladesh.</string>
+    <string name="mobile"><b>Mobile: </b>0167*******</string>
+
+    <string name="cat_EducationalInfo"><b>Educational Informations</b></string>
+    <string name="ssc"><b>S.S.C:</b></string>
+    <string name="sscinstitute">\t\t\t\t\t<b>Institute: </b>Uga buga High School</string>
+    <string name="sscgpa">\t\t\t\t\t<b>Result: </b>GPA 0.0</string>
+    <string name="hsc"><b>H.S.C:</b></string>
+    <string name="hscinstitute">\t\t\t\t\t<b>Institute: </b>Duga muga College</string>
+    <string name="hscgpa">\t\t\t\t\t<b>Result: </b>GPA 0.0</string>
+
+    <string name="cat_Experience"><b>Experience</b></string>
+    <string name="exp1">1. Omuk jaygay kaj korsi.</string>
+    <string name="exp2">2. Tomuk jaygay kaj korsi.</string>
+    <string name="exp3">3. Shomaj sheba kaj korsi.</string>
+
+    <string name="cat_Skills"><b>Skills</b></string>
+    <string name="skill1">1. Khaite pari.</string>
+    <string name="skill2">2. Khelte pari.</string>
+    <string name="skill3">3. Ghumaite Pari</string>
+</resources>
